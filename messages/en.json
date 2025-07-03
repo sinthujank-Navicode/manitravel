@@ -1,0 +1,90 @@
+
+{
+    "navbar": {
+      "home": "Home",
+      "about": "About us",
+      "services": "Services",
+      "contact": "Contact"
+    },
+
+    "hero": {
+        "subtitle": "__ As an independent entity,\nwe provide supportive and neutral\ngovernance to our coalition",
+        "heading": "TRAVEL\nAROUND\nTHE WORLD"
+      },
+
+      
+       "services": {
+  "heading": "Our Services",
+  "button": "Get in Touch",
+
+  "service1_title": "Air Ticketing",
+  "service1_description": "Book domestic and international flight tickets at the best prices with expert travel support.",
+
+  "service2_title": "Visa Consultation",
+  "service2_description": "Receive personalized guidance and expert support for all types of visa applications.",
+
+  "service3_title": "Online Visa Service",
+  "service3_description": "Apply for your visa online with complete documentation assistance and real-time updates.",
+
+  "service4_title": "All Online Appointments",
+  "service4_description": "Book appointments for embassies, passports, medicals, and other travel needs easily online.",
+
+  "service5_title": "Travel Insurance & Itinerary",
+  "service5_description": "Get reliable travel insurance and custom itinerary planning for a safe and organized trip.",
+
+  "service6_title": "Hotel Booking",
+  "service6_description": "Find and reserve the best hotels worldwide with flexible options and great deals.",
+
+  "service7_title": "Airport Transportation (Car & Van)",
+  "service7_description": "Enjoy safe, on-time airport pickups and drop-offs with professional drivers.",
+
+  "service8_title": "Translation (Tamil, English & Dutch)",
+  "service8_description": "Accurate and professional translation of travel and visa documents in Tamil, English, and Dutch."
+
+
+      
+    },
+"contact": {
+    "title": "Contact Us",
+    "address": "NO 312 Sea Street, Colombo - 11",
+    "openMap": "Open in map",
+    "mobile": "Call now",
+    "email": "commani187@gmail.com",
+    "sendMail": "Send mail",
+    "landline": "011 239 144 6",
+    "sendMessage": "SEND US MESSAGE",
+    "description": "Sample text. Click to select the text box. Click again or double click to start editing the text.",
+    "namePlaceholder": "Enter your Name",
+    "emailPlaceholder": "Enter a valid email address",
+    "messagePlaceholder": "Enter your message",
+    "submit": "Submit"
+    },
+
+        "newsletter": {
+          "heading": "Join Our Travel World",
+          "description": "Subscribe to our newsletter for exclusive travel deals, visa updates, expert travel tips, and early access to special offers. Start your journey with us!",
+          "placeholder": "Enter your email",
+          "button": "Subscribe"
+        },
+
+        "footer": {
+            "mani_travel_world": "Mani Travel World",
+            "footer_description": "We provide reliable travel services including flights, visas, hotels, and more to make your journey safe, smooth, and memorable.",
+            "services": "Services",
+             "air_ticketing": "Air Ticketing",
+  "visa_consulting": "Visa Consulting",
+  "online_visa_services": "Online Visa Service",
+  "online_appointments": "All Online Appointments",
+  "travel_insurance": "Travel Insurance & Itinerary",
+  "hotel_booking": "Hotel Booking",
+  "airport_transportation": "Airport Transportation (Car & Van)",
+  "translation": "Translation (Tamil, English & Dutch)",
+            "contact": "Contact",
+            "address": "Address",
+            "email": "commani187@gmail.com",
+            "mobile_number": "+94 774 725 978",
+            "phone_number": "011 239 144 6",
+            "address_full": "NO 312 Sea Street, Colombo – 11",
+            "copyright": "2025 Copyright : navicode@gmail.com"
+          }
+    }
