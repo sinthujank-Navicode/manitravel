@@ -67,7 +67,8 @@ export default function Footer() {
           <p className="text-gray-700">
             {t("address_full")} {/* Full address */}
           </p>
-                     <img src="/Logo.png" alt="Site Logo" className="h-42 w-42" /> {/* Site logo */}
+                     <img src="/Logo.png" alt="Site Logo"   className="h-[168px] w-[168px] object-contain" 
+ /> {/* Site logo */}
 
         </div>
       </div>
